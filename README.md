@@ -15,7 +15,7 @@ I am currently learning coding and will upload more apps and games that I will m
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=smoke-mp3&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=smoke-mp3)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=smoke-mp3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---

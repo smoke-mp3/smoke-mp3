@@ -1,8 +1,6 @@
-Hi!, my name is Amna
+Hi!
 
 Welcome to my student portofolio🐈
-
-Studying A-levels(CS,Phys and Maths)📚
 
 I am currently learning coding and will upload more apps and games that I will make💻
 

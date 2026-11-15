@@ -12,6 +12,7 @@ I am currently learning coding and will upload more apps and games that I will m
 ![](https://streak-stats.demolab.com/?user=smoke-mp3&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=smoke-mp3&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/smoke_mp3?theme=radical&font=Noto%20Sans%20Tagalog&colors=%23141321%23fe428e%20%23f8d847%23a9fef7)
 
 
